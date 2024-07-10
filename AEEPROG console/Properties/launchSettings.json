@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AEEProg": {
+      "commandName": "Project",
+      "commandLineArgs": "-P auto -S 256 -U EEPROM:w:C:\\Users\\marti\\OneDrive\\Dokumenty\\Projects\\Z80\\Z80_projects\\game\\game.rom -e"
+    }
+  }
+}
